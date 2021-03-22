@@ -34,3 +34,7 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+
+ #main_content {
+  margin: 5px 10%;
+}
