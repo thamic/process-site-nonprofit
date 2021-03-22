@@ -5,15 +5,15 @@
 
 /* If you want to add a background image to the home page banner instead of using a solid color.
 Just un comment the #banner rule below. */
-#banner {
-  background-image: url (/Users/trinityhamic/Documents/Production 2 Project 1/process-site-nonprofit/assets/photo-1610457379304-c1be61eba3d7.jpeg);
+/* #banner {
+  background-image: url(../../images/pic01.jpg);
   background-size: cover;
-  color:
+  color: rgba(255, 255, 255, 0.75);
   text-shadow: 1px 1px 15px #333;
   text-align: center;
   cursor: default;
   padding: 10em 4em 9em 4em;
-} 
+} */
 
 
 
@@ -38,3 +38,4 @@ added to the button in the index html file as well.*/
  #main_content {
   margin: 5px 10%;
 }
+$(".#1ABC9C").toggleClass("#1ABC9C blue") // turn off red and turn on blue classes
