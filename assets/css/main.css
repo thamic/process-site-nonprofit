@@ -3304,7 +3304,7 @@ take precedence the ones in this file. */
 /* Banner */
 
 	#banner {
-		background-color: #3498db;
+		background-color: #2E8B57;
 		color: rgba(255, 255, 255, 0.75);
 		text-align: center;
 		cursor: default;
@@ -3409,7 +3409,7 @@ take precedence the ones in this file. */
 			#banner button.special,
 			#banner .button.special {
 				background-color: #fff;
-				color: #3498db !important;
+				color:#2E8B57 !important;
 			}
 
 		#banner label {
@@ -3453,7 +3453,7 @@ take precedence the ones in this file. */
 		#banner input[type="radio"]:checked + label:before {
 			background-color: #fff;
 			border-color: #fff;
-			color: #3498db;
+			color: #2E8B57;
 		}
 
 		#banner input[type="checkbox"]:focus + label:before,
